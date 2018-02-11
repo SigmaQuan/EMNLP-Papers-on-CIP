@@ -9,16 +9,23 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 
 ## Contents
-* [EMNLP 2008](#EMNLP-2008)
-* [EMNLP 2009](EMNLP 2009)
-* [EMNLP 2010](EMNLP 2010)
-* [EMNLP 2011](EMNLP 2011)
-* [EMNLP 2012](EMNLP 2012)
-* [EMNLP 2013](EMNLP 2013)
-* [EMNLP 2014](EMNLP 2014)
-* [EMNLP 2015](EMNLP 2015)
-* [EMNLP 2016](EMNLP 2016)
-* [EMNLP 2017](EMNLP 2017)
+
+### Orded by topic
+* [Chinese Word Segmenation](#chinese-word-segmentation)
+* [Part-of-Speech Tagging](#part-of-speech-tagging)
+* [Part-of-Speech Tagging](#part-of-speech-tagging)
+
+### Orded by year
+* [EMNLP 2008](#emnlp-2008)
+* [EMNLP 2009](#emnlp-2009)
+* [EMNLP 2010](#emnlp-2010)
+* [EMNLP 2011](#emnlp-2011)
+* [EMNLP 2012](#emnlp-2012)
+* [EMNLP 2013](#emnlp-2013)
+* [EMNLP 2014](#emnlp-2014)
+* [EMNLP 2015](#emnlp-2015)
+* [EMNLP 2016](#emnlp-2016)
+* [EMNLP 2017](#emnlp-2017)
 
 
 ### EMNLP 2008 
