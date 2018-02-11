@@ -9,7 +9,7 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 
 ## Contents
-* [EMNLP 2008](EMNLP 2008)
+* [EMNLP 2008](#EMNLP-2008)
 * [EMNLP 2009](EMNLP 2009)
 * [EMNLP 2010](EMNLP 2010)
 * [EMNLP 2011](EMNLP 2011)
