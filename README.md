@@ -12,10 +12,9 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 ### Orded by topic
 * [Chinese Representation Learning](#chinese-representation-learning)
-* [Chinese Word Segmenation](#chinese-word-segmentation-and-part-of-speech-tagging)
+* [Chinese Word Segmenation and Part-of-Speech Tagging](#chinese-word-segmentation-and-part-of-speech-tagging)
 * [Named Entity Recognition](#named-entity-recognition)
 * [Chinese Reading Comprehension](chinese-reading-comprehension)
-
 
 
 ### Orded by year
@@ -31,7 +30,6 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 * [EMNLP 2017](#emnlp-2017)
 
 
-
 ### Chinese Representation Learning
 - **Joint Learning of Chinese Words, Terms and Keywords**. [[pdf]](http://www.aclweb.org/anthology/D14-1186)
 - **Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation**. [[pdf]]()
@@ -44,9 +42,8 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 - **Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components**. [[pdf]](http://www.aclweb.org/anthology/D17-1027)
 
 
-
 ### Chinese Word Segmenation and Part-of-Speech Tagging
-- **Enhancing domain portability of Chinese segmentation model using chi-square statistics and bootstrapping **. [[pdf]](http://www.aclweb.org/anthology/D10-1077)
+- **Enhancing domain portability of Chinese segmentation model using chi-square statistics and bootstrapping**. [[pdf]](http://www.aclweb.org/anthology/D10-1077)
 - **Enhancing Chinese Word Segmentation Using Unlabeled Data**. [[pdf]](http://www.aclweb.org/anthology/D11-1090)
 - **Iterative Annotation Transformation with Predict-Self Reestimation for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D12-1038)
 - **Joint Chinese Word Segmentation, POS Tagging and Parsing**. [[pdf]](https://aclanthology.info/pdf/D/D12/D12-1046.pdf)
