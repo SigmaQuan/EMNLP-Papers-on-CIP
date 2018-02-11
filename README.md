@@ -11,9 +11,12 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 ## Contents
 
 ### Orded by topic
-* [Chinese Word Segmenation](#chinese-word-segmentation)
-* [Part-of-Speech Tagging](#part-of-speech-tagging)
-* [Part-of-Speech Tagging](#part-of-speech-tagging)
+* [Chinese Representation Learning](#chinese-representation-learning)
+* [Chinese Word Segmenation](#chinese-word-segmentation-and-part-of-speech-tagging)
+* [Named Entity Recognition](#named-entity-recognition)
+* [Chinese Reading Comprehension](chinese-reading-comprehension)
+
+
 
 ### Orded by year
 * [EMNLP 2008](#emnlp-2008)
@@ -26,6 +29,48 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 * [EMNLP 2015](#emnlp-2015)
 * [EMNLP 2016](#emnlp-2016)
 * [EMNLP 2017](#emnlp-2017)
+
+
+
+### Chinese Representation Learning
+- **Joint Learning of Chinese Words, Terms and Keywords**. [[pdf]](http://www.aclweb.org/anthology/D14-1186)
+- **Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation**. [[pdf]]()
+- **Hierarchical Recurrent Neural Network for Document Modeling**. [[pdf]](http://www.aclweb.org/anthology/D15-1106)
+- **Detecting Information-Heavy Sentences: A Cross-Language Case Study**. [[pdf]]()
+- **Component-Enhanced Chinese Character Embeddings**. [[pdf]](http://www.aclweb.org/anthology/D15-1098)
+- **Multi-Granularity Chinese Word Embedding**. [[pdf]](http://www.aclweb.org/anthology/D16-1100)
+- **Learning Chinese Word Representations From Glyphs Of Characters**. [[pdf]](http://www.aclweb.org/anthology/D17-1025)
+- **Exploiting Word Internal Structures for Generic Chinese Sentence Representation**. [[pdf]](http://aclweb.org/anthology/D17-1029)
+- **Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components**. [[pdf]](http://www.aclweb.org/anthology/D17-1027)
+
+
+
+### Chinese Word Segmenation and Part-of-Speech Tagging
+- **Enhancing domain portability of Chinese segmentation model using chi-square statistics and bootstrapping **. [[pdf]](http://www.aclweb.org/anthology/D10-1077)
+- **Enhancing Chinese Word Segmentation Using Unlabeled Data**. [[pdf]](http://www.aclweb.org/anthology/D11-1090)
+- **Iterative Annotation Transformation with Predict-Self Reestimation for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D12-1038)
+- **Joint Chinese Word Segmentation, POS Tagging and Parsing**. [[pdf]](https://aclanthology.info/pdf/D/D12/D12-1046.pdf)
+- **An Empirical Study Of Semi-Supervised Chinese Word Segmentation Using Co-Training**. [[pdf]](http://www.aclweb.org/anthology/D13-1119)
+- **Deep Learning for Chinese Word Segmentation and POS Tagging**. [[pdf]](http://www.aclweb.org/anthology/D13-1061)
+- **Exploring Representations from Unlabeled Data with Co-training for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D13-1031)
+- **Semi-Supervised Chinese Word Segmentation Using Partial-Label Learning With Conditional Random Fields**. [[pdf]](http://www.aclweb.org/anthology/D14-1010)
+- **A Joint Model for Unsupervised Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D14-1092)
+- **Domain Adaptation for CRF-based Chinese Word Segmentation using Free Annotations**. [[pdf]](http://www.aclweb.org/anthology/D14-1093)
+- **A Transition-based Model for Joint Segmentation, POS-tagging and Normalization**. [[pdf]](http://www.aclweb.org/anthology/D15-1211)
+- **Long Short-Term Memory Neural Networks for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D15-1141)
+- **Semi-supervised Chinese Word Segmentation based on Bilingual Information**. [[pdf]](http://www.aclweb.org/anthology/D15-1142)
+- **Multi-Grained Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D17-1072)
+- **Word-Context Character Embeddings for Chinese Word Segmentation**. [[pdf]](http://www.aclweb.org/anthology/D17-1079)
+- **Joint Models for Chinese POS Tagging and Dependency Parsing**. [[pdf]](http://www.aclweb.org/anthology/D11-1109)
+
+
+### Named Entity Recognition
+- **Language and Domain Independent Entity Linking with Quantified Collective Validation**. [[pdf]]()
+- **Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings**. [[pdf]](http://www.aclweb.org/anthology/D15-1064)
+- **Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary**. [[pdf]](http://www.aclweb.org/anthology/D16-1069)
+
+
+### Chinese Reading Comprehension
 
 
 ### EMNLP 2008 
