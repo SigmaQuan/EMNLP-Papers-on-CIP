@@ -12,7 +12,7 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 ### Orded by topic
 * [Chinese Representation Learning](#chinese-representation-learning)
-* [Chinese Word Segmenation and Part-of-Speech Tagging](#chinese-word-segmentation-and-part-of-speech-tagging)
+* [Chinese Word Segmenation and Part-of-Speech Tagging](#chinese-word-segmenation-and-part-of-speech-tagging)
 * [Named Entity Recognition](#named-entity-recognition)
 * [Chinese Reading Comprehension](chinese-reading-comprehension)
 
