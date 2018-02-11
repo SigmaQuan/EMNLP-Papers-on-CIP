@@ -90,8 +90,8 @@ The topic in these papers include Chinese word segmentation, part-of-speech tagg
 
 ### EMNLP 2010
 [[Website]](http://www.lsi.upc.edu/events/emnlp2010/papers.html)
-- **A Tree Kernel-based Unified Framework for Chinese Zero Anaphora Resolution **. [[pdf]]()
-- **Enhancing domain portability of Chinese segmentation model using chi-square statistics and bootstrapping **. [[pdf]](http://www.aclweb.org/anthology/D10-1077)
+- **A Tree Kernel-based Unified Framework for Chinese Zero Anaphora Resolution**. [[pdf]]()
+- **Enhancing domain portability of Chinese segmentation model using chi-square statistics and bootstrapping**. [[pdf]](http://www.aclweb.org/anthology/D10-1077)
 
 
 ### EMNLP 2011
