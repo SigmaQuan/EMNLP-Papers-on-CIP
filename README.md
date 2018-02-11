@@ -66,6 +66,209 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 * * *
 
+
+### [[EMNL2008]](http://conferences.inf.ed.ac.uk/emnlp08/program.html)
+- **** 
+
+
+### Understanding / Generalization / Transfer
+- **Mining and Modeling Relations between Formal and Informal Chinese Phrases from Web Corpora**. [[pdf]](http://www.aclweb.org/anthology/D08-1108)
+- **Automatic inference of the temporal location of situations in Chinese text**. [[pdf]]()
+- **Using Bilingual Knowledge and Ensemble Techniques for Unsupervised Chinese Sentiment Analysis**. [[pdf]]()
+- **Improving Chinese Semantic Role Classification with Hierarchical Feature Selection Strategy**. [[pdf]]()
+
+
+
+
+- ****. [[pdf]]()
+
+EMNL2009
+http://conferences.inf.ed.ac.uk/emnlp09/accepted-papers.txt
+Can Chinese phonemes imporve machine transliteration? A comparative study of English-to-Chinese transliteration models
+
+Chinese novelty mining
+
+Chinese semantic role labeling with shallow parsing
+
+Construction of a blog emotion corpus for Chinese emotional expression analysis
+
+Improving nominal SRL in Chinese language with verble SRL in-formation and automatic predicate recognition
+
+Using morphological and syntactic structures for Chinese opinion anaylysis
+
+
+
+EMNL2010
+http://www.lsi.upc.edu/events/emnlp2010/papers.html
+
+A Tree Kernel-based Unified Framework for Chinese Zero Anaphora Resolution 
+
+Enhancing domain portability of Chinese segmentation model using chi-square statistics and bootstrapping 
+
+
+
+EMNL2011
+http://conferences.inf.ed.ac.uk/emnlp2011/papers.html
+
+Enhancing Chinese Word Segmentation Using Unlabeled Data
+
+Joint Models for Chinese POS Tagging and Dependency Parsing
+
+
+
+EMNL2012
+http://emnlp-conll2012.unige.ch/papers.html
+
+Unified Dependency Parsing of Chinese Morphological and Syntactic Structures
+
+Part-of-Speech Tagging for Chinese-English Mixed Texts with Dynamic Features
+
+Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction
+
+Iterative Annotation Transformation with Predict-Self Reestimation for Chinese Word Segmentation
+
+Joint Chinese Word Segmentation, POS Tagging and Parsing
+
+
+
+EMNL2013
+http://mirror.aclweb.org/emnlp2013/papers.html
+
+An Empirical Study Of Semi-Supervised Chinese Word Segmentation Using Co-Training
+
+Collective Opinion Target Extraction in Chinese Microblogs
+
+Deep Learning for Chinese Word Segmentation and POS Tagging
+
+Exploiting Zero Pronouns to Improve Chinese Coreference Resolution
+
+Exploring Representations from Unlabeled Data with Co-training for Chinese Word Segmentation
+
+Machine Learning for Chinese Zero Pronoun Resolution: Some Recent Advances
+
+
+EMNL2014
+http://www.emnlp2014.org/papers.html
+
+Semi-Supervised Chinese Word Segmentation Using Partial-Label Learning With Conditional Random Fields
+
+Chinese Poetry Generation with Recurrent Neural Networks
+
+Chinese Zero Pronoun Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers
+
+A Joint Model for Unsupervised Chinese Word Segmentation
+
+Domain Adaptation for CRF-based Chinese Word Segmentation using Free Annotations
+
+Ambiguity Resolution for Vt-N Structures in Chinese
+
+Predicting Chinese Abbreviations with Minimum Semantic Unit and Global Constraints
+
+ZORE: A Syntax-based System for Chinese Open Relation Extraction
+
+Coarse-grained Candidate Generation and Fine-grained Re-ranking for Chinese Abbreviation Prediction
+
+Automatic Inference of the Tense of Chinese Events Using Implicit Linguistic Information
+
+Building Chinese Discourse Corpus with Connective-driven Dependency Tree Structure
+
+Joint Learning of Chinese Words, Terms and Keywords
+
+
+
+EMNLP 2015
+http://www.emnlp2015.org/accepted-papers.html
+
+Language and Domain Independent Entity Linking with Quantified Collective Validation
+
+Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation
+
+A Transition-based Model for Joint Segmentation, POS-tagging and Normalization
+
+Graph-Based Collective Lexical Selection for Statistical Machine Translation
+
+A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences
+
+Dependency Graph-to-String Translation
+
+Hierarchical Recurrent Neural Network for Document Modeling
+
+Long Short-Term Memory Neural Networks for Chinese Word Segmentation
+
+Detecting Information-Heavy Sentences: A Cross-Language Case Study
+
+Chinese Word Segmentation Leveraging Bilingual Unlabeled Data
+
+Leave-one-out Word Alignment without Garbage Collector Effects
+
+A Graph-based Readability Assessment Method using Word Coupling
+
+Bilingual Correspondence Recursive Autoencoder for Statistical Machine Translation
+
+Generalized Agreement for Bidirectional Word Alignment
+
+Bilingual Structured Language Models for Statistical Machine Translation
+
+Search-Aware Tuning for Hierarchical Phrase-based Decoding
+
+Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks
+
+Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+
+LCSTS: A Large Scale Chinese Short Text Summarization Dataset
+
+The Overall Markedness of Discourse Relations
+
+A Binarized Neural Network Joint Model for Machine Translation
+
+Component-Enhanced Chinese Character Embeddings
+
+Hierarchical Phrase-based Stream Decoding
+
+
+
+EMNL2016
+https://www.aclweb.org/mirror/emnlp2016/accepted-papers.html
+
+Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary 
+
+Capturing Argument Connection for Chinese Semantic Role Labeling 
+
+Multi-Granularity Chinese Word Embedding 
+
+
+EMNL2017
+http://emnlp2017.net/accepted-papers.html
+
+Exploiting Word Internal Structures for Generic Chinese Sentence Representation
+
+Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components
+
+Word-Context Character Embeddings for Chinese Word Segmentation
+
+Multi-Grained Chinese Word Segmentation
+
+Learning Chinese Word Representations From Glyphs Of Characters
+
+Learning Fine-grained Relations from Chinese User Generated Categories
+
+Chinese Zero Pronoun Resolution with Deep Memory Network
+
+
+
+
+ACL 2012
+
+Capturing paradigmatic and syntagmatic lexical relations: Towards accurate Chinese part-of-speech tagging
+
+
+IJCNLP 2013
+
+Capturing long-distance dependencies in sequence models: A case study of Chinese part-ofspeech tagging
+
+
+
+
 ### Understanding / Generalization / Transfer
 - **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
